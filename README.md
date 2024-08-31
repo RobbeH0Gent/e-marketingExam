@@ -50,6 +50,12 @@ Snel kijken of je het examen e-marketing onder de knie hebt
 
 * Mobile first
 
+* Afkortingen:
+  
+	- HTML
+ 	- CSS
+  	- SEO  	
+
 
 # H2: Social Media Marketing
 
@@ -92,3 +98,21 @@ Snel kijken of je het examen e-marketing onder de knie hebt
 	-
 	-
 
+
+# H3: Search Engine Optimization
+
+* Leg uit wat een crawler of bot doet.
+
+* Pijlers van SEO
+  
+  	-
+  	-
+  	-
+
+* SERP Features:
+
+  
+
+* Woordenschat:
+  
+  	- SERP
