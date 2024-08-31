@@ -131,3 +131,24 @@ Snel kijken of je het examen e-marketing onder de knie hebt
 * Woordenschat:
   
   	- SERP
+
+
+# H4: Search Engine Advertising
+
+* Match types:
+
+  	-
+  	-
+  	-
+  	- Negative match
+ 
+* Hoe wordt een ad rank bepaald?
+
+* Veel voorokomende metrieken
+
+  	-
+  	-
+  	-
+    	-
+
+* Geef 5 ad extensions
