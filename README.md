@@ -10,11 +10,13 @@ Snel kijken of je het examen e-marketing onder de knie hebt
 # H1: Websites
 
 * Front-end:
+  
 	-
 	-
 	-
 
 * Holy trinity
+  
 	-
 	-
 	-
@@ -38,6 +40,7 @@ Snel kijken of je het examen e-marketing onder de knie hebt
 * Dark Patterns
 
 * Design
+  
 	-
 	-
 	-
