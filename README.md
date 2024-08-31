@@ -24,11 +24,14 @@ Snel kijken of je het examen e-marketing onder de knie hebt
 * Responsiveness
 
 * Bootstrap
+  
 	Voordelen
+
 	-
 	-
 	-
 	Nadelen
+
 	-
 	-
 	-
