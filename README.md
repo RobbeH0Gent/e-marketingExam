@@ -79,7 +79,14 @@ Snel kijken of je het examen e-marketing onder de knie hebt
 	-
 	-
 
-* Doel van deze types
+* Fb ad manager (3 niveaus)
+
+   	-
+	-
+	-
+
+
+* Type doelen
 
    	-
 	-
