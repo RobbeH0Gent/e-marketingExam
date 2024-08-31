@@ -2,12 +2,12 @@
 Snel kijken of je het examen e-marketing onder de knie hebt
 
 
-#H0 Intro:
+# H0 Intro:
 
 * Customer-Journey:
 
 
-#H1: Websites
+# H1: Websites
 
 * Front-end:
 	-
