@@ -58,7 +58,7 @@ Snel kijken of je het examen e-marketing onder de knie hebt
 
 * Social media trends (ik weet niet of dit te kennen valt)
 
-* 5C-model
+* 5C-model (en voor wat is dit nuttig?)
 
 	-
 	-
